@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V0yxv75bpL/TjkIkK3KOJPAoB4RN28UscrrEy2lU062r/pkVX7TysNq0219BGPECq0TcrazvAmP1dlfL4nTUgA==",
+  "dgSpecHash": "fimUMz2LQuTgal3kCAE5Y9KsQWyKvI5MGC0OWhRV03zSnJ0tNWFgIHoU6bnv8BvgZAbyZDGAie+zs9od8idJCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\filipe_formigari\\source\\repos\\ControleEstoqueApp\\ControleEstoqueApp\\ControleEstoqueApp.csproj",
+  "projectFilePath": "C:\\Users\\filipe_formigari\\Documents\\GitHub\\controleDeEstoque.net\\ControleEstoqueApp\\ControleEstoqueApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\filipe_formigari\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\filipe_formigari\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

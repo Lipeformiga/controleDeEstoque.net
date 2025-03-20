@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ControleEstoqueApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4cbc8a71e6623e0001b35d0c7165c8f8350e844")]
 [assembly: System.Reflection.AssemblyProductAttribute("ControleEstoqueApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ControleEstoqueApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

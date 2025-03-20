@@ -14,7 +14,7 @@ namespace ControleEstoqueApp
         private void btnSalvar_Click_1(object sender, EventArgs e)
         {
             salvarProduto();
-            
+
             CarregarProdutos();
         }
 
@@ -84,22 +84,26 @@ namespace ControleEstoqueApp
             produto.Nome = txtNome.Text;
             produto.Quantidade = int.Parse(txtQuantidade.Text);
             produto.Preco = decimal.Parse(txtPreco.Text);
-       
+
 
             if (!idExiste)
             {
                 context.Produtos.Add(produto);
                 MessageBox.Show("Produto cadastrado com sucesso!");
-            } else if (idExiste)
+            }
+            else if (idExiste)
             {
                 MessageBox.Show("Produto atualizado com sucesso!");
             }
-            else {
+            else
+            {
                 MessageBox.Show("Produto não encontrado");
             }
 
             context.SaveChanges();
 
         }
+
+       
     }
 }

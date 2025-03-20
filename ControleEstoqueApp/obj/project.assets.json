@@ -3235,11 +3235,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\filipe_formigari\\source\\repos\\ControleEstoqueApp\\ControleEstoqueApp\\ControleEstoqueApp.csproj",
+      "projectUniqueName": "C:\\Users\\filipe_formigari\\Documents\\GitHub\\controleDeEstoque.net\\ControleEstoqueApp\\ControleEstoqueApp.csproj",
       "projectName": "ControleEstoqueApp",
-      "projectPath": "C:\\Users\\filipe_formigari\\source\\repos\\ControleEstoqueApp\\ControleEstoqueApp\\ControleEstoqueApp.csproj",
+      "projectPath": "C:\\Users\\filipe_formigari\\Documents\\GitHub\\controleDeEstoque.net\\ControleEstoqueApp\\ControleEstoqueApp.csproj",
       "packagesPath": "C:\\Users\\filipe_formigari\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\filipe_formigari\\source\\repos\\ControleEstoqueApp\\ControleEstoqueApp\\obj\\",
+      "outputPath": "C:\\Users\\filipe_formigari\\Documents\\GitHub\\controleDeEstoque.net\\ControleEstoqueApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\filipe_formigari\\AppData\\Roaming\\NuGet\\NuGet.Config",
